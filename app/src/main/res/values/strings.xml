@@ -2,8 +2,10 @@
 <resources>
 
     <string name="app_name">Foody</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="piksu">piksu on paras luonnolisesti.</string>
+
+    <string name="diner_main_title">Diner</string>
+    <string name="diner_sub_title">Test Diner</string>
 
 </resources>
